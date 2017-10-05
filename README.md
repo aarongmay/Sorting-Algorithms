@@ -11,6 +11,6 @@
 </ul>
 <strong>O(n log n) algorithms</strong>
 <ul>
-  <li>Merge sort</li>
+  <li>Merge sort: Divides the unsorted list into n partitions, each partition contains 1 element (one value is considered sorted). Continues to merge partitioned units, producing new sublists until there is only one sublist remaining.</li>
   <li>Quick sort</li>
 </ul>
