@@ -11,7 +11,7 @@ public class BubbleSort {
 	 * Bubble sort algorithm to sort integers
 	 * @param listToSort List of Integers to sort
 	 */
-	public static void sort(List<Integer> listToSort) {  
+	public void sort(List<Integer> listToSort) {  
 		int temp = 0;  
 
 		//loop through list comparing i and i + 1 and swapping values if required until list sorted
